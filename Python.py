@@ -1,2 +1,3 @@
 exit = 1 * 2
-print ("exit")
+Enter = exit - 1
+print ("Enter")
